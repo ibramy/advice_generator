@@ -4,11 +4,8 @@
 
 Thanks for checking out this front-end coding challenge.
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+[Frontend Mentor](https://www.frontendmentor.io) challenges help improve coding skills by building realistic projects.
 
-# Advice Generator
-
-Mini application frontend qui récupère des conseils aléatoires depuis une API publique.
 
 # Advice Generator
 
